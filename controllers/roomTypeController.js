@@ -35,7 +35,7 @@ exports.room_type_update_get = function (req, res) {
   res.send("NOT IMPLEMENTED: Room type update GET");
 };
 
-// Handle Author update on POST.
+// Handle Room type update on POST.
 exports.room_type_update_post = function (req, res) {
   res.send("NOT IMPLEMENTED: Room type update POST");
 };
